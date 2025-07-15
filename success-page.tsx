@@ -63,8 +63,8 @@ export default function SuccessPage({ userName }: SuccessPageProps) {
         backgroundSize: "cover",
         backgroundPosition: "center",
         backgroundRepeat: "no-repeat",
-        maxWidth: "1179px",
-        minHeight: "2556px", // Đã điều chỉnh lại chiều cao tổng thể cho iPhone 11
+        maxWidth: "590px",
+        minHeight: "1278px", // Đã điều chỉnh lại chiều cao tổng thể cho iPhone 11
         margin: "0 auto",
       }}
     >
